@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fckclimatechange
 - 👀 I’m interested in Unity 3D GameDev
-- 🌱 I’m currently learning C#
-- 🌍 I think the climate crisis is our biggest challenge 
+- 🌱 I’m currently learning C#, Java, and Swift
+- 🌍 I think the climate crisis is our biggest challenge (after NullPointerEceptions ofcourse)
